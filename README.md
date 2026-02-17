@@ -12,10 +12,6 @@ I am an Electronics & Communication (E&C) student at KLE Technological Universit
 
 ---
 
-## 📈 GitHub Stats
-
-![AMEERJDRO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMEERJDRO&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMEERJDRO&layout=compact&theme=radical)
 
 ---
 
